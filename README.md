@@ -14,17 +14,17 @@ Author: gamefunc:
 Example codes:
 ----------------
 ```c++
-    for(auto i : range(10)){
-        std::cout << i << ", ";
-    }// for(auto i : range(10));
+for(auto i : range(10)){
+    std::cout << i << ", ";
+}// for(auto i : range(10));
 
-    std::cout << "\n\n";
+std::cout << "\n\n";
 
-    for(auto i : range(10, 1, -3)){
-        std::cout << i << ", ";
-    }// for(auto i : range(10, 1, -3));
+for(auto i : range(10, 1, -3)){
+    std::cout << i << ", ";
+}// for(auto i : range(10, 1, -3));
 
-    return 0;
+return 0;
 ```   
 ![image](https://github.com/gamefunc/py_range_simple_cpp23/blob/main/img0.jpg)
       
