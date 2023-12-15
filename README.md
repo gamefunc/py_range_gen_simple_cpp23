@@ -1,5 +1,5 @@
 # py_range_simple_cpp23
-c++ 23 std::ranges impl python3 for i in range(n) co_yield example
+c++ 23 std::ranges impl python3 for i in range(n) co_yield gen example
 
 
 Author: gamefunc:
